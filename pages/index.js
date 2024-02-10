@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1>O Senhor é meu pastor e nada me faltará</h1>
+    return <h1>Você conhece hoponopono? Eu conheço e recomendo</h1>
 }
 
 export default Home;
