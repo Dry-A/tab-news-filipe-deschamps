@@ -10,7 +10,7 @@ function Home(){
     const estiloDoTexto = {
 
         color: 'gray',
-        fontFamily: 'Inconsolata, sans-serif'
+        fontFamily: 'Calibri, sans serif'
     }
 
     return (
